@@ -1,0 +1,2 @@
+# Aspect-Oriented-Opinion-Mining-of-Sindhi-Media-Titles-Employing-Intelligent-Algorithms
+Developed an Aspect-Oriented Opinion Mining System for Sindhi media using Machine Learning and Attention-Based Neural Architectures. The project performs sentiment analysis and opinion classification on media titles using Python, Jupyter Notebook, and deep learning techniques to improve opinion extraction accuracy.
